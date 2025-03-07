@@ -1,0 +1,12 @@
+[submodule "path/to/folder"]
+	path = path/to/folder
+	url = https://github.com/Ekansh90/Restaurant-website.git
+[submodule "restaurant-website"]
+	path = restaurant-website
+	url = https://github.com/Ekansh90/Restaurant-website.git
+[submodule "data-analysis-files"]
+	path = data-analysis-files
+	url = https://github.com/Ekansh90/PowerBi-Dashboards-and-Files.git
+[submodule "FoodBridgeApp"]
+	path = FoodBridgeApp
+	url = https://github.com/Ekansh90/FoodBridge-app.git
