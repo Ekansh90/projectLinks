@@ -7,6 +7,3 @@
 [submodule "data-analysis-files"]
 	path = data-analysis-files
 	url = https://github.com/Ekansh90/PowerBi-Dashboards-and-Files.git
-[submodule "FoodBridgeApp"]
-	path = FoodBridgeApp
-	url = https://github.com/Ekansh90/FoodBridge-app.git
