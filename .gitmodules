@@ -7,3 +7,6 @@
 [submodule "data-analysis-files"]
 	path = data-analysis-files
 	url = https://github.com/Ekansh90/PowerBi-Dashboards-and-Files.git
+[submodule "FoodBridge-Testing"]
+	path = FoodBridge-Testing
+	url = https://github.com/Ekansh90/FoodBridge-Testing.git
